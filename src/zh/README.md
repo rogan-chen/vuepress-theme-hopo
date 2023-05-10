@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 博客主页1
 heroImage: /logo.svg
 heroText: 你博客的名称
 heroFullScreen: true
@@ -22,11 +22,6 @@ projects:
     name: 书籍名称
     desc: 书籍详细描述
     link: https://你的书籍链接
-
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
 
   - icon: friend
     name: 伙伴名称
